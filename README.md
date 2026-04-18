@@ -20,9 +20,8 @@ brew install fzf
 
 # Ubuntu/Debian
 sudo apt install fzf
-
 # Other systems: https://github.com/junegunn/fzf#installation
-```by
+```
 
 ## Installation
 
